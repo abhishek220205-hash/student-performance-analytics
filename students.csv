@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,SQL,HTML,CSS,JavaScript,Attendance
+STU101,Aarav Sharma,CSE,92,88,94,90,86,94.5
+STU102,Priya Patel,AI & ML,88,91,86,84,89,91.0
+STU103,Rohan Verma,IT,76,72,80,75,70,82.5
+STU104,Sneha Iyer,CSE,95,94,97,92,96,96.0
+STU105,Vikram Singh,Data Science,45,48,52,44,41,68.0
+STU106,Ananya Nair,AI & ML,84,80,88,85,83,88.5
+STU107,Karthik Reddy,ECE,79,75,82,78,74,84.0
+STU108,Neha Gupta,CSE,91,89,90,87,88,92.0
+STU109,Aditya Joshi,IT,67,65,70,68,62,76.5
+STU110,Pooja Mehta,Data Science,82,85,86,80,81,89.0
+STU111,Rahul Nair,ECE,54,58,60,55,50,72.0
+STU112,Divya Menon,AI & ML,96,92,95,94,93,97.5
+STU113,Siddharth Rao,CSE,73,70,78,74,71,81.0
+STU114,Kavya Krishnan,IT,85,83,88,86,82,90.0
+STU115,Manish Tiwari,ECE,42,39,46,40,38,64.5
+STU116,Riya Choudhary,Data Science,89,87,91,88,85,93.0
+STU117,Arjun Malhotra,CSE,77,74,81,76,72,83.5
+STU118,Nisha Agarwal,AI & ML,93,90,94,91,92,95.0
+STU119,Varun Deshmukh,IT,64,62,68,66,60,78.0
+STU120,Tanvi Kulkarni,CSE,86,84,89,85,83,90.5
