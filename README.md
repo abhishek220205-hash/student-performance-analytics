@@ -100,8 +100,15 @@ The system processes all 20 student records with zero errors. It accurately iden
 
 ---
 
-## 10. How to Run the Project
+---
+
+## 10. GitHub Repository
+* **Final GitHub Repository Link:** https://github.com/abhishek220205-hash/student-performance-analytics
+
+## 11. How to Run the Project
 ```bash
 pip install numpy pandas matplotlib
+
+---
 python main.py
 ```
